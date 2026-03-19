@@ -1,0 +1,5 @@
+{
+  "name": "Company Data Enrichment Tool",
+  "description": "Tool for enriching company data using Google Search grounding and Gemini AI.",
+  "requestFramePermissions": []
+}
